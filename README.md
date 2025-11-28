@@ -1,6 +1,6 @@
 - Hi, I’m Babatunde Arowolo
 - I’m interested in developing my python skills and eventually my data analysis skills in various softwares.
-- I’m currently learning python and AWS.
+- I’m advanced in lagnuages like python and services like AWS.
 - I’m looking to collaborate on various beginner level and intermidate projects.
 - You can reach me via email @ tundesamuel14@gmail.com
 
